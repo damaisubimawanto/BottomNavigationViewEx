@@ -138,10 +138,9 @@ Step 2. Add the dependency
 compile 'com.github.ittianyu:BottomNavigationViewEx:1.2.4'
 compile "com.android.support:design:26.+"
 ```
-2. new version support lib = 28
+2. new version support lib = 31
 ```groovy
-implementation 'com.github.ittianyu:BottomNavigationViewEx:2.0.4'
-implementation "com.android.support:design:28.0.0"
+implementation 'com.github.damaisubimawanto:BottomNavigationViewEx:2.1.0'
 ```
 3. AndroidX
 use new version，and add config into gradle.properties
